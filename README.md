@@ -1,8 +1,8 @@
-## Fetch_ItemList
+# Fetch_ItemList
 
-# Start Guide
+## Start Guide
 
-I generate the start code using [expo](https://expo.dev/). **Please *not* re-run the expo init command**. Instead, in this directory, simply run...
+I generate the start code using [expo](https://expo.dev/). **Please *not* re-run the expo init command**. Instead, in the directory,/Desktop/Chuan_Tian, simply run...
 
 ```bash
 npm install
