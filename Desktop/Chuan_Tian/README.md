@@ -2,7 +2,7 @@
 
 ## Start Guide
 
-I generate the start code using [expo](https://expo.dev/). **Please *not* re-run the expo init command**. Instead, in this directory, simply run...
+I generate the start code using [expo](https://expo.dev/). Please *not* re-run the expo init command. Instead, in this directory, simply run...
 
 ```bash
 npm install
