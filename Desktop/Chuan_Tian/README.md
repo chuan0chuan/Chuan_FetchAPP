@@ -1,12 +1,12 @@
-## Fetch_ItemList
+# Fetch_ItemList
 
-# Start Guide
+## Start Guide
 
 I generate the start code using [expo](https://expo.dev/). **Please *not* re-run the expo init command**. Instead, in this directory, simply run...
 
 ```bash
 npm install
-npm start
+npm run ios
 ```
 
 To test this app, there are a few options. If you have a smart device, I would recommend using the expo app for [iOS](https://apps.apple.com/us/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US). You can scan the QR code using your phone, or you can launch commands via the terminal. Otherwise, you can use an emulator (such as [AVD](https://developer.android.com/studio/run/emulator)). The significant portions of the source code are located in the files App.js and GroupHeader.js.
